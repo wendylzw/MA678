@@ -1,20 +1,11 @@
-# Wendy's mid-term project
+# midterm project
 
 > Please submit a link to your GitHub repo, a link to1 Page document, and a oral presentation on Flipgrid for the midterm project proposal.  
 
-## Write up: 
-1-page shared Word document maximum 500 words (10)  
-- [ ] Personal Statement :  
-What is your career goal and how this project aligns with the goal.  
-- [ ] Question :
-Preliminary question that you are going to try to answer. (you can change as you see necessary)  
-- [ ] The data source (s): 
-Clear link to where you got the data from.  If this is your personal data, clearly state what it is.  
-- [ ] Proposed Timeline of work : Your tentative plans to finish the following by which date.  
-□ EDA:
-□ Data Processing:
-□ Modeling and Validation:
-□ Write up:
 
-## Oral presentation:
+## Progress Status
+#### Proposal ----11.05  
+[google doc](https://docs.google.com/document/d/10tFm0jP9xSI9NBj6b4cRIGwK5nti8I8oHTm7PImnPOo/edit#heading=h.9nvcibv3gama)
+
+#### Oral presentation:
 - [ ] 1min on Flipgrid . (10)
